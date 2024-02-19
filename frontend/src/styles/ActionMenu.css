@@ -1,0 +1,21 @@
+/* ActionMenu.css */
+.view-icon{
+    color: green;
+}
+#delete-icon {
+    color: red;
+}
+.action-menu-container {
+    display: flex;
+    align-items: flex-start;
+}
+.action-menu-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.action-menu-list > * {
+    margin-bottom: 8px; 
+}
+
+

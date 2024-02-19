@@ -1,0 +1,57 @@
+.inputContainer{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    margin: auto;
+    /* border: 1px solid red; */
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.profile-photo{
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+}
+.box-container{
+    display: flex;
+    justify-content: space-between;
+} 
+#child1{
+    width: 50%;
+}
+
+.child2{
+    width: 48%;
+    padding: 20px;
+}
+
+.btn>Button{
+    width: 100%;
+    border:1px solid gray;
+    margin-top: 20px;
+    background-color: brown;
+}
+
+
+@media screen and (min-width:601px) and (max-width: 900px) {
+   
+  }
+
+
+@media (max-width: 600px) {
+    .inputContainer{
+        width: 80%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr)
+    };
+
+    
+ }

@@ -1,0 +1,27 @@
+
+:root {
+	--mainColor: #29335c;
+	--mainColorLight: #5767aa;
+	--secondaryColor: #db2b39;
+	--textColor: #eee;
+}
+
+.Header_div{
+    background-color: #0c0101;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+    transition: ease-in-out 0.4s;
+}
+.Header_div:hover{
+    background-color: #424242;
+    color:#D50000 ;
+    font-size: 19px;
+}
+.head{
+    font-weight: bolder;
+   font-size: larger;
+    
+}
