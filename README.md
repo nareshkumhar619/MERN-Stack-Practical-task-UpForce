@@ -207,40 +207,19 @@ Note : `You can use any one of them.`
 <a href="https://mern-stack-practical-task-up-force.vercel.app/"><strong>Vercel</strong></a>
 
 <br>
+</details>
 
 # ScreenShots
 
-<br>
-    
-## Home Page
- 
-<img src="https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(7).png" alt="image"/>
+![Home Page](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(7).png)
 
-<br>
-    
-<br>
-    
-## Single user View   
+![Single User View](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(9).png)
 
-<img src="https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(9).png" alt="image"/>
+![Download CSV of User Data](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(11).png)
 
-<br>
-    
-## Download Csv of User data   
-    
-<img src="https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(11).png" alt="image"/>
-    
-## User update   
-    
-<img src="https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(10).png" alt="image"/>
+![User Update](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(10).png)
 
-<br>
-    
-## Add new user
-    
-<img src="https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(8).png" alt="image"/>
-    
+![Add New User](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(8).png)
 
-</details>
 
 
