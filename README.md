@@ -13,7 +13,7 @@
 
 ## Installation
 
-```js
+
 Step 1 :  Clone the repository in your local system
 Step 2 :  Open terminal `VSCode / GitBash / powershell`
 Step 3 :  Type `cd backend`
@@ -208,7 +208,7 @@ Note : `You can use any one of them.`
 
 <br>
 </details>
-
+```
 # ScreenShots
 
 ![Home Page](https://github.com/nareshkumhar619/MERN-Stack-Practical-task-UpForce/blob/main/frontend/assets/Screenshot%20(7).png)
